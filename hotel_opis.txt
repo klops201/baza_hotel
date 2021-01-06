@@ -1,0 +1,12 @@
+WYKONAWCA: Bartosz Ostrokołowicz gr III /4  IO
+
+Baza danych hotel przechowuje i przetwarza wszystkie dane zarówno klientów 
+jak i informacje odnośnie ich pobytu w hotelu. Są to m.in. dane personalne, dane dotyczące wynajętych pokoi
+czy wykupionych dodatkowych usług. W bazie są umieszczone także: 
+widoki,wyzwalacze,funkcja,procedura by zachować porządek w danych i uprościć korzystanie z bazy.
+
+
+
+Wyzwalacze,funkcje i procedure tworzyłem w specjalnych od tego zakładkach(wybierając je z listy po lewej 
+stronie workbencha np. create stored procedure itd.) i tam też przekopiować przesłany kod żeby stworzyć którąś z 
+ww. akcji.
